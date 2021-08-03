@@ -1,1 +1,2 @@
-<h1>CRUD APPLICATION using laravel and vue Full Stack Web Development REST API</h1>
+<h1>CRUD APPLICATION</h1>
+<p>using laravel and vue Full Stack Web Development REST API</p>
